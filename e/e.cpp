@@ -1,10 +1,4 @@
-#include <iostream>
-
-using namesapce std;
-
-#define EEEEEEEE cout << "EEEEEEEE" << endl;
-#define EEEEEE cout << "EEEEEE" << endl;
-#define E cout << "E" << endl;
+#include "e.h"
 
 int main(int argc, char*argv) {
     EEEEEEEE
